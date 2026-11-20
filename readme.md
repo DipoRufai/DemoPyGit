@@ -1,2 +1,1 @@
-# Learning Python 
-# And Various Python Projects
+# Learning Python with Projects
